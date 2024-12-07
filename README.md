@@ -1,6 +1,9 @@
 My GitHub: https://github.com/Slowdiiive/Project
+
 Name: Lijing Li
+
 Email: lli86@stevens.edu
+
 Title: "Strava Live"
 
 Brief Description: 
