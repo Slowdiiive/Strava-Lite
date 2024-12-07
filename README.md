@@ -20,7 +20,7 @@ The bugs I met:
 The way I solved: Accidentally, the computer restarted and it can run normally.
 
 
-2/ When I did the Follow Friend,
+2/ When I did the Follow Friend:
 (.venv) D:\Flask\Strava Lite>curl -X PUT http://127.0.0.1:5000/follow-list/ceab1c0c-6
 48a-41a5-961d-f934fbe01c31 -H "Content-Type: application/json" -d "{\"follow-id\": \"6631fab4-a42d-4cdc-b8a6-87f4ebf23a7c\"}"
 {"message": {"follow_id": "Missing required parameter in the JSON body or the post body or the query string"}} 
