@@ -12,6 +12,7 @@ It enables users to add and update their workout data.
 Also, users can follow their friends and view their friends' workouts.
 
 The bugs I met:
+
 1/ When I registered users and try to get their list, the command prompt put:
 
 (.venv) D:\Flask\Strava Live>curl -X GET http://127.0.0.1:5000/users
