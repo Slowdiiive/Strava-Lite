@@ -1,4 +1,4 @@
-My GitHub: https://github.com/Slowdiiive/Project
+My GitHub: https://github.com/Slowdiiive/https://github.com/Slowdiiive/Strava-Lite.git
 
 Name: Lijing Li
 
