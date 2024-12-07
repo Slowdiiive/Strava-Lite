@@ -1,8 +1,12 @@
 My GitHub: 
 https://github.com/Slowdiiive/Project
+
 Name: Lijing Li
+
 Email: lli86@stevens.edu
+
 Title: "Strava Live"
+
 Brief Description: 
 This project can register, remove users, and view the user list. 
 It enables users to add and update their workout data. 
