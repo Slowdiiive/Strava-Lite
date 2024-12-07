@@ -15,21 +15,14 @@ Also, users can follow their friends and view their friends' workouts.
 The bugs I met:
 
 1/ When I registered users and try to get their list, the command prompt put:
-
 (.venv) D:\Flask\Strava Live>curl -X GET http://127.0.0.1:5000/users
-
 <!doctype html>
-
 <html lang=en>
-  
 <title>404 Not Found</title>
-
 <h1>Not Found</h1>
-
 <p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
-  
-The way I solved:
 
+The way I solved:
 Accidentally, the computer restarted and it can run normally.
 
 2/ When I did the Follow Friend,
