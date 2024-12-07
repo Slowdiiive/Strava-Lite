@@ -1,5 +1,4 @@
-My GitHub: 
-https://github.com/Slowdiiive/Project
+My GitHub: https://github.com/Slowdiiive/Project
 
 Name: Lijing Li
 
@@ -20,6 +19,7 @@ The bugs I met:
 <title>404 Not Found</title>
 <h1>Not Found</h1>
 <p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+  
 The way I solved:
 Accidentally, the computer restarted and it can run normally.
 
