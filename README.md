@@ -52,7 +52,7 @@ List user2's workouts:
 curl -X get http://127.0.0.1:5000/workouts/{response_id2}
 
 id2 follows id3:
-curl -X PUT http://127.0.0.1:5000/follow-list/{response_id2} -H "Content-Type: application/json" -d "{\"follow-id\": \"{response_id3}\"}"
+curl -X PUT http://127.0.0.1:5000/follow-list/{response_id2} -H "Content-Type: application/json" -d "{\"follow_id\": \"{response_id3}\"}"
 
 id2 wants to see id3's workout:
 curl -X GET http://127.0.0.1:5000/follow-list/{response_id2}/{response_id3}
